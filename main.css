@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/***********************************************HEADER******************************************************************/
+
+header {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 175px;
+    text-align: center;
+    color: rgba(188,190,192,);
+    padding: 120px 20px 60px 20px;
+}
+h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    color: rgb(114,114,114);
+    margin: 5px 20px 100px 20px;
+    font-weight: 100;
+}
+
+nav {
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: -40px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(114,114,114);
+    margin: auto;
+}
+
+.width {
+    width: 230px;
+    height: auto;
+    box-sizing: border-box;
+    display:inline-flex;
+    margin: 60px;
+    justify-content:center;
+    
+}
+
+.padding {
+    padding: 10px 40px;
+}
+.paddingl {
+    padding: 10px 45px;
+}
+.paddingll {
+    padding: 10px 60px;
+}
+
+a:hover {
+color:white;
+}
+
